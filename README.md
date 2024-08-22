@@ -1,4 +1,4 @@
-#*Cube Smasher Game*
+#Cube Smasher Game
 
 ##*Description*
 
