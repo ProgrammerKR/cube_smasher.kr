@@ -4,7 +4,7 @@
 body {
 	margin: 0;
 	background-color: #000;
-	background-image: radial-gradient(ellipse at top, #335476 0.0%, #31506e 11.1%, #304b67 22.2%, #2f4760 33.3%, #2d4359 44.4%, #2c3f51 55.6%, #2a3a4a 66.7%, #293643 77.8%, #28323d 88.9%, #262e36 100.0%);
+	background-image: radial-gradient(ellipse at top, #5a9bd1 0%, #4a8bbf 20%, #3a7ab0 40%, #2a699f 60%, #1a588f 80%, #0a4780 100%);
 	height: 100vh;
 	overflow: hidden;
 
